@@ -3,46 +3,32 @@
     {
       "busname": "DCTV6B",
       "number": 1,
-      "carplate": "XB 0001",
-      "fleetnum": "V6B2",
-      "depot": "C",
+      "carplate": "XB 0002",
+      "fleetnum": "V6B2"
     },
     {
       "busname": "DCTV6B",
       "number": 2,
-      "carplate": "XB 0002",
-      "fleetnum": "V6B3",
-      "depot": "C",
+      "carplate": "XB 0003",
+      "fleetnum": "V6B3"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "DCTV6B",
       "number": 3,
-      "carplate": "XA 2099",
-      "fleetnum": "V6L3",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8360318323"
+      "carplate": "XB 0004",
+      "fleetnum": "V6B4"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "DCTV6B",
       "number": 4,
-      "carplate": "XA 5627",
-      "fleetnum": "V6L4",
-      "depot": "G",
-      "leftad": "rbxassetid://7016816879",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8360318323"
+      "carplate": "XB 0005",
+      "fleetnum": "V6B5"
     },
     {
-      "busname": "GeoBusB8L12000",
+      "busname": "DCTV6B",
       "number": 5,
-      "carplate": "XA 7700",
-      "fleetnum": "V6L5",
-      "depot": "G",
-      "leftad": "rbxassetid://6938517627",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8360318323"
+      "carplate": "XB 0006",
+      "fleetnum": "V6B6"
     },
     {
       "busname": "GeoBusB8L12000",
